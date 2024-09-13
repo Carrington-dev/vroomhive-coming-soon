@@ -39,7 +39,7 @@ and GPL-3.0 (http://opensource.org/licenses/GPL-3.0) licenses.
                 endDate = Date.parse($.isPlainObject(_this.options.date) ? _this.options.date : new Date(_this.options.date));
                 // diff = (endDate - Date.parse(new Date)) / 1000;
                  
-                diff = (new Date("Sep 09, 2024 00:00:00").getTime() - Date.parse(new Date)) / 1000;
+                diff = (new Date("Sep 16, 2024 00:00:00").getTime() - Date.parse(new Date)) / 1000;
                 // if (myDateHtml){
                 //     diff = myDateHtml;
                 // }
